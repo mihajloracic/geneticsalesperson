@@ -23,6 +23,7 @@ addCity(200, 40)
 addCity(20, 20)
 addCity(60, 20)
 addCity(160, 20)
+print(len(cities))
 def evalGenmoe(genom):
     distance = 0
     for i in range(2,len(genom)):
