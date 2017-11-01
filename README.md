@@ -8,6 +8,7 @@ They also use this same combination of nodes
 
 The best result I got 753.39(http://prntscr.com/h501ih)
 I used this on these cordinates, and meassured the distance with euclidic formula
+
 (60, 200)
 (180, 200)
 (80, 180)
