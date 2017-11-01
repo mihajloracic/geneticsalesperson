@@ -5,7 +5,7 @@ upperBound = 20.0;
 
 genomLength = 20;
 
-populationSize = 10;
+populationSize = 50;
 
 def lowerBound():
     return lowerBound
