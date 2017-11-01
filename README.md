@@ -30,5 +30,5 @@ I used this on these cordinates, and meassured the distance with euclidic formul
 (60, 20)
 (160, 20)
 
-If you have any questions feal free to contac me, and as far as I am concerned use any of my code in any way you can!
+If you have any questions feal free to contact me, and as far as I am concerned use any of my code in any way you can!
 Cheers!
